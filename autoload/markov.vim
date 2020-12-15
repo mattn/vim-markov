@@ -1,7 +1,3 @@
-"	reIgnoreText = regexp.MustCompile(`[\[\]「」『』()]`)
-")
-"
-
 let s:classes = [
 \ [0x037e, 0x037e, 1],
 \ [0x0387, 0x0387, 1],
